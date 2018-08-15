@@ -13,7 +13,7 @@ An instance has the following properties:
 - `lettersGuessed` - this is a memory bank of all the letters guessed. This is useful when determining a valid guess. A guess does not count if the character was already guessed.
 - `gameState` - tracks the state of the game, there are three states `'playing'`, `'lost'`, `'won'`.
 
-** computeGameState **
+**computeGameState**
 
 - The `computeGameState` method determines if the player `'won'`, `'lost'`, or has remaining guesses to continue playing. The `computeGameState` is responsible for updating the `gameState` property.
 
