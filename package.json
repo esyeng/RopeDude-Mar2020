@@ -1,0 +1,22 @@
+{
+  "name": "rope-dude",
+  "version": "1.0.0",
+  "description": "The RopeDude project is designed just like the TestFirst test specs. After you fork and clone the repository, run the `testem` command and begin reviewing and tackling the specs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "testem"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FullstackAcademy/Rope-Dude.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FullstackAcademy/Rope-Dude/issues"
+  },
+  "homepage": "https://github.com/FullstackAcademy/Rope-Dude#readme",
+  "devDependencies": {
+    "testem": "^2.14.0"
+  }
+}
