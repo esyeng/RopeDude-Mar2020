@@ -1,4 +1,4 @@
-The RopeDude project is designed just like the TestFirst test specs. After you fork and clone the repository, run the `testem` command and begin reviewing and tackling the specs.
+The RopeDude project is designed just like the TestFirst test specs. After you fork and clone the repository, run the `npm install` then use the `npm test` command to begin reviewing and tackling the specs.
 
 In the `rope-dude.js` file you will notice a global variable called `ASCIIART`. This is an array that holds different formations of the rope dude board and is primarily used in the `getGameStateMessage` method. You are welcome to refactor the `ASCIIART` array to an object or any type of data structure you desire.
 
