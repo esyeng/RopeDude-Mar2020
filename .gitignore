@@ -25,3 +25,6 @@ Thumbs.db
 # repos / submodules
 .git
 .svn
+
+unusedCode
+rope-dude2.js
